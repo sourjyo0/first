@@ -1,12 +1,13 @@
-# Dillinger
+# The readme file 
 
 
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+Great syntax at work
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+  - A bullet
+  - and two 
+  - More
 
 # New Features!
+ - Yaya
 
